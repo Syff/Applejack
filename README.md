@@ -5,6 +5,9 @@
 # Setup:
 This gamemode is using FPTje's MySQLite module, so you can just install the gamemode like normal & use it, if you want to use MySQL edit sv_config.lua, I have made it alot easier for you to use this gamemode because it was already too hard!
 
+# Update (13-04-2019):
+You will need to have MySQLOO installed in order to make this gamemode work. Tested this with the latest version (9.5). https://github.com/FredyH/MySQLOO 
+
 # Support:
 	I'll support this gamemode for a little while, add me on steam for help; http://steamcommunity.com/id/Pawsativehi
 	
